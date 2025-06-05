@@ -12,11 +12,3 @@ Este proyecto implementa un controlador por **linealización por realimentación
 - 🧠 Autor: Jorge Fernando Bustos Méndez
 
 ---
-
-## 📁 Estructura del repositorio
-
-```bash
-├── /docs          # Diagramas, resultados de simulación, reporte
-├── /simulink      # Modelos .slx
-├── /src           # Scripts de MATLAB para el diseño del controlador
-├── README.md
